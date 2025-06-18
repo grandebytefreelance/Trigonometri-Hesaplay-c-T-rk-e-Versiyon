@@ -1,2 +1,2 @@
-# Trigonometri-Hesaplay-c-T-rk-e-Versiyon
+# Trigonometry Calculator Mobile App Turkish Version
 This is a trigonometry calculator mobile application with Turkish interface.
